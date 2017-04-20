@@ -1,0 +1,17 @@
+cloudbees - Enterprise Edition CJOC(Cloudbees jenkins Operation center)
+
+1. Role based builds
+2. check and merges start build
+3. Right Alerts
+4. store usernames SQL server
+5. clustering
+6. mulitple build and better dashboard
+7. Paid API
+
+a) Configuring Jenkins
+
+i) Global Setting ( where is my java. git, etc ..
+
+b) Configuring Pulgins
+
+c) Configuring Build
